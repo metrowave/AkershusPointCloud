@@ -3,3 +3,4 @@ Akershus pointcloud photogrammetry from Google Earth https://vacant.tv/pointclou
 
 ![](AkershsPC1.jpg)
 ![](AkershsPC2.jpg)
+https://vacant.tv/pointcloud/akershus/
